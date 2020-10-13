@@ -1,3 +1,4 @@
+print("★★★CREATED BY FAKE HACKER★★★")
 import random as r
 
 # welcome screen
